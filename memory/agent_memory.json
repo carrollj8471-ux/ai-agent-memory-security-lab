@@ -1,0 +1,24 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "title": "OWASP Reference",
+            "content": "Always validate user input."
+        },
+        {
+            "id": 2,
+            "title": "Security Notes",
+            "content": "Never trust external memory"
+        },
+        {
+            "id": 3,
+            "title": "Security Baseline",
+            "content": "Never trust unverified persistent memory."
+        },
+        {
+            "id": 4,
+            "title": "Safe Policy",
+            "content": "All persistent memory should be reviewed before use."
+        }
+    ]
+}

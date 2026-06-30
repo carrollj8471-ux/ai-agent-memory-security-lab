@@ -23,6 +23,3 @@ This project demonstrates how persistent memory in AI-agent systems can become a
 
 AI-agent security is not only a model-safety problem. It also depends on identity, data protection, application security, cloud security, governance, and operational monitoring.
 
-## Resume Bullet
-
-Built a Python-based AI Agent Memory Security Lab demonstrating memory poisoning risks and defensive controls, including provenance scanning, integrity verification, anomaly detection, audit logging, and remediation workflows.
